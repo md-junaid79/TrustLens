@@ -1,6 +1,13 @@
 langgraph==0.6.7
+langchain==0.1.20
 langchain-groq==0.2.5
-unstructured==0.15.0
+langchain-core==0.1.48
+
 sentence-transformers==3.4.1
+torch==2.2.2
+transformers==4.38.2
 qdrant-client==1.11.0
+
+PyPDF2==3.0.1
+
 python-dotenv==1.0.0
